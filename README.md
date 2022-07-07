@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fepdev" target="blank"><img src="https://img.shields.io/twitter/follow/fepdev?logo=twitter&style=for-the-badge" alt="fepdev" /></a> </p>
 
-- 🔭 I’m currently working on [all things Java](https://devfep.github.io/cowDetFitness/)
+- 🔭 I’m currently working on [all things Java](https://github.com/devfep/hyperskill-CinemaRoomManager)
 
 - 🌱 I’m currently learning **Java Backend Development**
 
