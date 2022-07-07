@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/fepdev" target="blank"><img src="https://img.shields.io/twitter/follow/fepdev?logo=twitter&style=for-the-badge" alt="fepdev" /></a> </p>
 
-- 🔭 I’m currently working on [CowDetFitness Running App](https://devfep.github.io/cowDetFitness/)
+- 🔭 I’m currently working on [all things Java](https://devfep.github.io/cowDetFitness/)
 
-- 🌱 I’m currently learning **JS (React, I'm coming for ya soon!)**
+- 🌱 I’m currently learning **Java Backend Development**
 
-- 👯 I’m looking to collaborate on **JavaScript projects**
+- 👯 I’m looking to collaborate on **Java projects**
 
 - 📫 How to reach me **devfep@gmail.com**
 
